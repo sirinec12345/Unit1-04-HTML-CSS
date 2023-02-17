@@ -1,4 +1,23 @@
-html {
+body {
+  background-image: url("https://t3.ftcdn.net/jpg/02/88/80/38/360_F_288803822_0CJ8L3gr6w6nGnUeje6pCllCX7s986xz.jpg");
+}
+h1 {
   height: 100%;
   width: 100%;
+  padding: 40px;
+  background:#E8F8F5 ;
+} 
+
+h2 {color: #EBF5FB;
+  }
+
+p { 
+  background-color: #EBF5FB ;
 }
+
+p { 
+  background-color: #EBF5FB ;
+} 
+
+  </body>
+<html>
