@@ -19,5 +19,15 @@ p {
   background-color: #EBF5FB ;
 } 
 
+table { 
+  background-color: #EBF5FB ;
+
+} 
+
+table, th, td {
+  border:1px solid black;
+
+}
+
   </body>
 <html>
